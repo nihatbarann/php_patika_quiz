@@ -1,0 +1,28 @@
+
+	h1,h3 {
+		text-align: center;
+		color: pink;
+		font-size: 45px;
+	}
+
+	h4{
+		color: yellow;
+	}
+	.ortala{
+		text-align: center;
+		list-style-type: none;
+	}
+
+	a{
+		margin-right: 5px;
+	}
+	p{
+		margin-bottom: 10px;
+	}
+	.mor{
+	color: purple;
+	font-size:35px;
+	}
+	span{
+		font-weight: bold;
+	}
